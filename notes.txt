@@ -1,0 +1,43 @@
+ library: set function ,class,modules(bootstrap,toasts,routing,statemangement) we call when we call when we require
+        : entire application will within the control of us 
+        eg: react ,jquery 
+ framework ::(django,spring,angular) itself is an application ,prefidefined set of rules,no flexibilty
+
+Single Page application : which consists of single html page to render the content
+gmail,facebook etc 
+
+development server : modifying the existing ,work with error make changes
+Production server : minimal error logos  privacy content not exposed etc 
+
+ React : facebook 2013 and 2015(published as an open source)
+  🎯 it is popular js library which used developing single page application
+       1.Component based architecture (reuseabilty of the code)
+       2.virtual dom (copy of original dom) ==> :def [increase in the performance]
+       3.JSX ( write the Html like code in js)
+       4.uniderictional flow(parent to child)(props & children)
+       5.easy to learn & Rich ecosystem (more no of tools used flexibily)
+       6.ease state mangement (redux ,contextapi)
+       7.cross-platform application (React_native)
+
+😎integrating react to Html projects 
+     CDN  : not prefered way 
+     [create-react-app,vite ,parcel ,webpack] : tools 
+     Through installation with npm
+
+
+    NPM :  Package Manger which is used to manage the packages(bootstap ,react,razorpay) like installing updating deleting
+    NPX : node Package Excuter
+
+
+    npm install <packageName>  -g       (-g global)
+    npm install <packageName>  -D   (-D Dev_dependency)
+    npm install <packageName>  --save-dev   
+    npm unistall <packageName>
+    npm init  (giving the information manually by user)
+            (Package-json-file):which consists the meta data about the project 
+                name, author ,version ,configration etc 
+    npm init -y (creates the entire information by itself)
+                                               
+
+
+
